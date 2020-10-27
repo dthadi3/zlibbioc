@@ -9,7 +9,8 @@ Description: This package uses the source code of zlib-1.2.5 to create
   means (most Linux and Mac users should have system-level access to
   zlib, and no direct need for this package). See the vignette for
   instructions on use.
-URL: http://bioconductor.org/packages/release/bioc/html/Zlibbioc.html
+biocViews: Infrastructure
+URL: https://bioconductor.org/packages/zlibbioc
+BugReports: https://github.com/Bioconductor/zlibbioc/issues
 License: Artistic-2.0 + file LICENSE
 LazyLoad: yes
-biocViews: Infrastructure
