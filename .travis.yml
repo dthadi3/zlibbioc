@@ -3,3 +3,5 @@ arch:
   - ppc64le
 language: c 
 os: linux
+script:
+  - ./configure
