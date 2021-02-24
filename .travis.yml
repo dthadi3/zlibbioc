@@ -5,3 +5,5 @@ language: c
 os: linux
 script:
   - ./configure
+  - cd src
+  - make
